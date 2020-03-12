@@ -1,6 +1,6 @@
 
-main: main.cpp
+a.out: main.cpp
 	g++ main.cpp -std=c++11
 
-run: main
+run: a.out
 	@./a.out
