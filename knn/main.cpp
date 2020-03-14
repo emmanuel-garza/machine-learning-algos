@@ -161,7 +161,5 @@ int main()
     //     cout << row + 1 << " " << data.class_val[row] << endl;
     // }
 
-    // cout << data.features[0].size() << endl;
-
     return 0;
 }
